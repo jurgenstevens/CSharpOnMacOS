@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9nHvg+9URIGt0MAO3MKdVnSkTmRCXDX9lu3lq0vi9mq3V+t5bCpVxCh1d0vWveFODfMQdJq1Q4xctN6rwe7DXQ==",
+  "success": true,
+  "projectFilePath": "/Users/southsidejdot/Desktop/C#/MacOSProject/library/library.csproj",
+  "expectedPackageFiles": [
+    "/Users/southsidejdot/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/southsidejdot/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

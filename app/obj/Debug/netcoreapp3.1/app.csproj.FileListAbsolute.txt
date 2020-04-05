@@ -1,0 +1,16 @@
+/Users/southsidejdot/Desktop/C#/MacOSProject/app/bin/Debug/netcoreapp3.1/app.deps.json
+/Users/southsidejdot/Desktop/C#/MacOSProject/app/bin/Debug/netcoreapp3.1/app.runtimeconfig.json
+/Users/southsidejdot/Desktop/C#/MacOSProject/app/bin/Debug/netcoreapp3.1/app.runtimeconfig.dev.json
+/Users/southsidejdot/Desktop/C#/MacOSProject/app/bin/Debug/netcoreapp3.1/app.dll
+/Users/southsidejdot/Desktop/C#/MacOSProject/app/bin/Debug/netcoreapp3.1/app.pdb
+/Users/southsidejdot/Desktop/C#/MacOSProject/app/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/southsidejdot/Desktop/C#/MacOSProject/app/bin/Debug/netcoreapp3.1/library.dll
+/Users/southsidejdot/Desktop/C#/MacOSProject/app/bin/Debug/netcoreapp3.1/library.pdb
+/Users/southsidejdot/Desktop/C#/MacOSProject/app/obj/Debug/netcoreapp3.1/app.csprojAssemblyReference.cache
+/Users/southsidejdot/Desktop/C#/MacOSProject/app/obj/Debug/netcoreapp3.1/app.csproj.CoreCompileInputs.cache
+/Users/southsidejdot/Desktop/C#/MacOSProject/app/obj/Debug/netcoreapp3.1/app.AssemblyInfoInputs.cache
+/Users/southsidejdot/Desktop/C#/MacOSProject/app/obj/Debug/netcoreapp3.1/app.AssemblyInfo.cs
+/Users/southsidejdot/Desktop/C#/MacOSProject/app/obj/Debug/netcoreapp3.1/app.csproj.CopyComplete
+/Users/southsidejdot/Desktop/C#/MacOSProject/app/obj/Debug/netcoreapp3.1/app.dll
+/Users/southsidejdot/Desktop/C#/MacOSProject/app/obj/Debug/netcoreapp3.1/app.pdb
+/Users/southsidejdot/Desktop/C#/MacOSProject/app/obj/Debug/netcoreapp3.1/app.genruntimeconfig.cache

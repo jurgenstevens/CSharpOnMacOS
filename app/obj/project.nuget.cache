@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8QAkvXhtIY6tBSlZtZrSTWte9Z/CCswKlKFrx4br5zSXMYdG/cuhFj3EJOADt2zO8KDSs8ytmfhAxCBREz1HMw==",
+  "success": true,
+  "projectFilePath": "/Users/southsidejdot/Desktop/C#/MacOSProject/app/app.csproj",
+  "expectedPackageFiles": [
+    "/Users/southsidejdot/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
